@@ -1,0 +1,1 @@
+{"train_samples": 67326, "test_samples": 16832, "vocab_size": 68204, "max_len": 500, "embedding_dim": 250}
